@@ -46,11 +46,6 @@ header {
   color: #fff;
 }
 
-.box {
-  width: 60%;
-  margin: 0 auto;
-}
-
 .bdc {
   height: 2px;
   width: 100%;
@@ -59,7 +54,7 @@ header {
 }
 
 .white {
-  font-size: 33px;
+  font-size: 30px;
   margin-bottom: 50px;
   color: #fff;
 }
