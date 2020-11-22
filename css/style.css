@@ -81,7 +81,7 @@ header {
 .icon {
   width: 100px;
   height: 100px;
-  background: linear-gradient(90deg, #48BAFF, #5FC3FF);
+  background: linear-gradient(90deg, #48BAFF 50%, #5FC3FF 50%);
   margin: 0 auto;
   position: relative;
   margin-bottom: 30px;
